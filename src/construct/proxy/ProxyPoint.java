@@ -1,6 +1,7 @@
 package construct.proxy;
 
 /**
+ * 简单代理
  * @author all
  * @since 2023/7/18 17:09
  */

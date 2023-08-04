@@ -3,7 +3,7 @@ package create.singleton.demo7;
 import java.lang.reflect.Constructor;
 
 /**
- * 破坏单例模式：序列化
+ * 破坏单例模式：反射
  *
  * @author all
  * @since 2023/6/19 23:17

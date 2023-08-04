@@ -8,11 +8,11 @@ package construct.proxy;
 public class Client {
     public static void main(String[] args) {
         // 简单代理对象测试
-        // simpleProxyTest();
+        simpleProxyTest();
         // JDK动态代理测试
         // jdkDynamicProxyTest();
         // CGLIB代理测试
-        cglibProxyTest();
+        // cglibProxyTest();
     }
 
     /**

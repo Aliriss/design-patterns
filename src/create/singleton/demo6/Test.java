@@ -14,7 +14,7 @@ import java.io.ObjectOutputStream;
 
 public class Test {
     public static void main(String[] args) {
-        String filePath = "D:\\code\\java\\demo\\designPattern\\design-patterns\\src\\create.singleton\\demo6\\obj.txt";
+        String filePath = "D:\\code\\java\\demo\\designPattern\\design-patterns\\src\\create\\singleton\\demo6\\obj.txt";
         Singleton singleton = Singleton.getInstance();
         // writeObjToFile(create.singleton, filePath);
         Object o = readObjFromFile(filePath);

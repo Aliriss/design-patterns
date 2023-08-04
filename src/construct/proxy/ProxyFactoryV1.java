@@ -8,11 +8,13 @@ import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
 /**
+ * CGLIB代理工厂
  * @author all
  * @since 2023/7/19 10:06
  */
 
 public class ProxyFactoryV1 implements MethodInterceptor {
+    // 被代理类不允许实现接口
     private TrainStationV1 trainStationV1 = new TrainStationV1();
     public TrainStationV1 getProxyObject() {
         // 创建Enhancer对象，类似JDK代理中的Proxy类

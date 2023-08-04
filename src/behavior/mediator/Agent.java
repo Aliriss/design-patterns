@@ -2,7 +2,7 @@
  * Copyright (c) 2023. ALL.
  */
 
-package behavior.Mediator;
+package behavior.mediator;
 
 
 /**

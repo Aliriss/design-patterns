@@ -10,6 +10,7 @@ import create.prototype.demo.Student;
 
 public class CitationTest {
     public static void main(String[] args) {
+        System.out.println("示例1：");
         // 1. 创建原型对象
         Citation citation = new Citation();
         citation.setStudent(new Student("HYB"));
@@ -21,7 +22,7 @@ public class CitationTest {
         // 4. 展示
         citation.show();
         citation1.show();
-
+        System.out.println("以上示例展示了浅克隆");
 
     }
 }
