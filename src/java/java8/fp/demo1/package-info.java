@@ -11,4 +11,4 @@
  * @author all
  * @since 2023/9/19 17:27
  */
-package java8features.functionalprogramming.demo1;
+package java.java8.fp.demo1;

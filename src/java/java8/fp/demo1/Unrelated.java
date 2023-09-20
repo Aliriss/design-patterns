@@ -1,4 +1,4 @@
-package java8features.functionalprogramming.demo1;
+package java.java8.fp.demo1;
 
 /**
  * @author all
