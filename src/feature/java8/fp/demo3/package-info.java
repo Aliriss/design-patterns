@@ -4,4 +4,4 @@
  * @author all
  * @since 2023/9/20 11:46
  */
-package java.java8.fp.demo3;
+package feature.java8.fp.demo3;

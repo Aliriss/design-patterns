@@ -1,4 +1,4 @@
-package java.java8.fp.demo3;
+package feature.java8.fp.demo3;
 
 import java.util.function.*;
 
