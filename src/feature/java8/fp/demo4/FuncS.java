@@ -6,5 +6,12 @@ package feature.java8.fp.demo4;
  */
 
 public interface FuncS {
+
+    /**
+     * apply
+     *
+     * @param s s
+     * @return String
+     */
     String apply(String s);
 }

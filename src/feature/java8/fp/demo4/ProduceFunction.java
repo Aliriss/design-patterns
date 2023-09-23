@@ -5,7 +5,7 @@ package feature.java8.fp.demo4;
  * @since 2023/9/20 19:32
  */
 
-public class ProduceFucntion {
+public class ProduceFunction {
     static FuncS produce() {
         return String::toLowerCase;
     }
